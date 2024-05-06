@@ -1,0 +1,34 @@
+_repo: Josafat_73408
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bertrana, Prudenci
+    aliases:
+    - Bertrana, Prudencio
+    - Compte, Prudencio Bertrana y
+    - Comte, Prudenci Bertrana i
+    birthdate: 1867
+    deathdate: 1941
+    gutenberg_agent_id: '7472'
+    url: http://www.gutenberg.org/2009/agents/7472
+    wikipedia: https://ca.wikipedia.org/wiki/Prudenci_Bertrana_i_Comte
+description: ''
+gutenberg_issued: '2024-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73408'
+language: ca
+pgterms:marc905: 20240412032522bertrana
+pgterms:marc906: '1906'
+pgterms:marc907: ES
+production_note: Joan Queralt Gil
+publication_note: '  $aSpain :$bJoanola i Ribras, Impressors, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catalan fiction -- 20th century'
+- !lcc 'PC'
+- GITenberg
+title: Josafat
+url: http://www.gutenberg.org/ebooks/73408

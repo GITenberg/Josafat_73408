@@ -1,5 +1,8 @@
 _repo: Josafat_73408
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73408-h/images/cover.jpg
 creator:
   author:
     agent_name: Bertrana, Prudenci
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7472
     wikipedia: https://ca.wikipedia.org/wiki/Prudenci_Bertrana_i_Comte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73408#Josafat
 gutenberg_issued: '2024-04-17'
 gutenberg_type: Text
 identifiers:
